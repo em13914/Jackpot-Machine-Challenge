@@ -1,0 +1,33 @@
+body {
+	width: 60vw;
+	height: 100vh;
+	margin: 0 20vw 0 20vw;
+	display: block;
+}
+
+/* build your layout */
+.col {
+	
+}
+.row {
+	
+}
+
+/* control your content */
+.center-content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+img {
+	max-height: 99%;
+	max-width: 99%;
+}
+
+/* colors */
+.black {background-color: #000000;}
+.pink {background-color: #EB5674;}
+.yellow {background-color: #FBEE40;}
+.orange {background-color: #FD5632;}
+.grey {background-color: #D3D3D3;}
+.dark-grey {background-color: #A9A9A9;}
